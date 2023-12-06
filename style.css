@@ -1,0 +1,28 @@
+.bg{
+    background-image: url("assets/slide-1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.bg1{
+    background-image: url("assets/slide-2.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.bg2{
+    background-image: url("assets/slide-3.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.card{
+    height: 450px;
+    width: 100%;
+}
+.card img{
+    height: 50%;
+    width: 100%;
+}
+iframe{
+    border: 0;
+    height: 500px;
+    width: 100%;
+}
